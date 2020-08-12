@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color_red" tools:ignore="MissingDefaultResource">#ea4b35</color>
+    <color name="lightblack">#000</color>
+    <color name="text_color_black">#000</color>
+    <color name="white">#fff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="color_black">#2d3e52</color>
+    <color name="color_red">#ea4b35</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="light_gray">#fff5f5f5</color>
+    <color name="hint_color_lightbule">#00d0e8</color>
+    <color name="hint_color_darkbule">#2791b0</color>
+    <color name="transparent">#00000000</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+    <color name="black">#000000</color>
+    <color name="defult">#F5F5F5</color>
+    <color name="background_picture">#ffffff</color>
+    <color name="background">#f6f6f6</color>
+    <color name="color_yellow">#f3c500</color>
+    <color name="color_light_gray">#f9f9f9</color>
+    <color name="color_dark_gray">#969fa8</color>
+    <color name="blue">#ffccddff</color>
+    <color name="grey">#58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="title_color1">#007fff</color>
+    <color name="title_color2">#8833bb</color>
+    <color name="title_color3">#11aa55</color>
+    <color name="title_color4">#dd5500</color>
+    <color name="title_color5">#ee2255</color>
+    <color name="cart_color">#ff6537</color>
+    <color name="background_color">#f6f6f6</color>
+    <color name="qianhui">#d7d7d7</color>
+    <!--灰色-->
+    <color name="hui_color1">#8b8b8b</color>
+    <color name="hui_color2">#f9f5f5</color>
+    <color name="hui_color3">#e7e7e7</color>
+    <color name="hui_color4">#f4f5f5</color>
+    <color name="hui_color5">#AAB2B9</color>
+    <color name="hui_color6">#969696</color>
+    <color name="hui_color7">#d8d8d8</color>
+    <color name="hui_color8">#999999</color>
+    <color name="hui_color9">#c9c9c9</color>
+    <color name="hui_color10">#bfbfbf</color>
+    <color name="hui_color11">#d1d1d1</color>
+    <color name="hui_color12">#999999</color>
+    <color name="hui_color13">#c0c9d2</color>
+    <color name="hui_color14">#fafafa</color>
+    <color name="hui_color15">#9FA5B4</color>
+    <color name="hui_color16">#626B80</color>
+    <color name="hui_color17">#F5F5F7</color>
+    <color name="hui_color18">#AEB3BF</color>
+    <color name="hui_color19">#8E8E8E</color>
+    <color name="hui_color20">#FBFBFE</color>
+
+    <!--绿色-->
+    <color name="lv_color1">#38E800</color>
+    <color name="lv_color2">#35A02C</color>
+
+    <!--红色-->
+    <color name="hong_color1">#ff1d1c</color>
+    <color name="hong_color2">#ff1d1d</color>
+    <color name="hong_color3">#ff4264</color>
+    <color name="hong_color4">#E4463F</color>
+    <color name="hong_color5">#c80002</color>
+    <color name="hong_color6">#F62044</color>
+    <color name="hong_color7">#e3564d</color>
+    <color name="hong_color8">#fe0000</color>
+    <color name="hong_color9">#fcfae4</color>
+    <color name="hong_color10">#FF5A5A</color>
+    <color name="hong_color11">#FF9F9F</color>
+    <color name="hong_color12">#FFF2F2</color>
+    <color name="hong_color13">#CA2419</color>
+    <!--黑色-->
+    <color name="hei_color1">#333333</color>
+    <color name="hei_color2">#666666</color>
+    <color name="hei_color3">#222222</color>
+    <!--蓝色-->
+    <color name="lan_color1">#00d0e8</color>
+    <color name="lan_color2">#007fff</color>
+    <color name="lan_color3">#007ffb</color>
+    <color name="lan_color4">#437dff</color>
+    <color name="lan_color5">#3165EC</color>
+    <color name="lan_color6">#4478FF</color>
+    <color name="lan_color8">#4478FF</color>
+    <color name="lan_color9">#99B3F5</color>
+    <color name="lan_color10">#F0F6FF</color>
+    <color name="lan_color11">#7DA1FF</color>
+    <color name="lan_color12">#0D3EBD</color>
+    <!--黄色-->
+    <color name="huang_color1">#FFCC12</color>
+    <color name="huang_color2">#FFAA18</color>
+    <color name="huang_color3">#FAC365</color>
+    <color name="huang_color4">#FEFAF2</color>
+    <color name="huang_color5">#FE8618</color>
+
+    <!--底色-->
+    <color name="dise_color1">#faf9f5</color>
+
+
+    <!--橙色-->
+    <color name="cheng_color1">#f9b532</color>
+    <color name="cheng_color2">#ffa800</color>
+    <color name="cheng_color3">#ff6c00</color>
+
+    <!--棕色-->
+    <color name="zong_color1">#EA8250</color>
+</resources>
